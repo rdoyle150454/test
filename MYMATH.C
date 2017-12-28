@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "func.h"
-
+//test
 void error_exit(){ 
 	printf("Invalid input. Exiting.");
 	exit(1);
